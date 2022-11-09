@@ -1,0 +1,81 @@
+h2 {
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    display: block;
+    margin-top: 100px;
+}
+.tableLeft {
+    margin-left: 600px;
+    display: inline-block;
+}
+h4 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.drivers {
+    width: 300px;
+}
+.numBorder {
+    border: solid 3px;
+}
+td {
+    font-size: 15px;
+    text-align: center;
+}
+span {
+    font-weight: bold;
+}
+.tableRight {
+    border: solid 3px;
+    margin-right: 600px;
+    display: inline-block;
+}
+
+.RedBull {
+    border: solid 3px black;
+    background-color: rgb(1, 0, 56);
+    color: white;
+}
+
+.Ferrari {
+    border: solid 3px black;
+    background-color: red;
+}
+
+.Mercedes {
+    border: solid 3px black;
+    background-color: rgb(218, 216, 216);
+}
+
+.mclaren {
+    border: solid 3px black;
+    background-color: #FF7431;
+}
+
+.alpine {
+    border: solid 3px black;
+    background-color: rgb(1, 166, 216);
+}
+
+.aston {
+    border: solid 3px black;
+    background-color: rgb(0, 66, 9);
+}
+
+.alfaRomeo {
+    border: solid 3px black;
+    background-color: #8d0000;
+}
+
+.williams {
+    border: solid 3px black;
+    background-color: #003cff;
+}
+
+.haas {
+    border: solid 3px black;
+    background-color: #fdd3d3;
+}
